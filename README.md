@@ -7,10 +7,15 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [Links](#links)
 - [Tech Used](#tech-used)
 - [Questions](#questions)
-- [Links](#links)
 - [License](#license)
+
+## Links
+
+- **[GitHub Repo](https://github.com/mjos7/my-ecomm-backend-store)**
+- **[Recorded Demo](https://www.loom.com/share/574c9beb63f14948acb1eaf91aa04453)**
 
 ## Installation
 
@@ -31,11 +36,6 @@
 ## Questions
 
 Please don't hesitate to reach out if you have any suggestions or feedback
-
-## Links
-
-- **[GitHub Repo](https://github.com/mjos7/my-ecomm-backend-store)**
-- **[Video Walkthrough]()**
 
 ## License
 
